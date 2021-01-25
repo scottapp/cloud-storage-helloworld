@@ -1,6 +1,5 @@
 # cloud-storage-helloworld
 
-
 ## Stacks
 
 - google cloud run
