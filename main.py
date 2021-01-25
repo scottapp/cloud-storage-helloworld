@@ -1,7 +1,6 @@
 # https://cloud.google.com/storage/docs/reference/libraries#client-libraries-install-python
 # Imports the Google Cloud client library
 import os
-import sys
 from google.cloud import storage
 from myapp.cloud import upload_blob, download_blob
 from flask import Flask
